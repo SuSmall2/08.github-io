@@ -1,1 +1,1 @@
-[博客首页] (https://github.com/)
+[博客首页](https://github.com/)
